@@ -19,7 +19,7 @@ To write a program to find the LU Decomposition of a matrix.
 /*
 Program to find the L and U matrix.
 Developed by: 
-RegisterNumber: 
+RegisterNumber: 25007261
 */
 ```
 (ii) To find the LU Decomposition of a matrix
@@ -27,12 +27,15 @@ RegisterNumber:
 /*
 Program to find the LU Decomposition of a matrix.
 Developed by: 
-RegisterNumber: 
 */
+RegisterNumber:25007261
+<img width="345" height="219" alt="image" src="https://github.com/user-attachments/assets/c1def3f0-1c1a-4c7d-ad14-0d706f0d4f57" />
+
 ```
 
 ## Output:
 ![lu decomposition]()
+<img width="1241" height="499" alt="image" src="https://github.com/user-attachments/assets/727d019f-7f62-407e-adbd-80f2d6150bbb" />
 
 
 ## Result:
