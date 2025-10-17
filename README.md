@@ -21,7 +21,8 @@ Program to find the L and U matrix.
 Developed by: ANGELIN GRACY.R
 RegisterNumber: 25007261
 */
-```<img width="397" height="239" alt="image" src="https://github.com/user-attachments/assets/3bbd6a31-577f-498b-92e4-71ff35678ac4" />
+```
+<img width="397" height="239" alt="image" src="https://github.com/user-attachments/assets/3bbd6a31-577f-498b-92e4-71ff35678ac4" />
 
 (ii) To find the LU Decomposition of a matrix
 ```
